@@ -1,0 +1,11 @@
+# Configuracion Django
+SECRET_KEY = django-insecure-8_vf&)u@g!n8yrh$g861%t^1qi3nz9626u+r4yl=^2wi*xgtvy
+DEBUG = True
+ALLOWED_HOSTS = 127.0.0.1, localhost
+
+# Configuración Base de Datos
+DB_NAME = 'dev_blog'
+DB_USER = 'root'
+DB_PASSWORD = '**************'
+DB_HOST = 'localhost'
+DB_PORT = 3306  
